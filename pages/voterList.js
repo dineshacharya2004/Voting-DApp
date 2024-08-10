@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-const voterList = () => {
+const VoterList = () => { // Changed component name to `VoterList` for consistency
   return (
-    <div>voterList</div>
-  )
+    <div>Voter List</div>
+  );
 }
 
-export default voterList
+export default VoterList;
